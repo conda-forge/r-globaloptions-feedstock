@@ -14,9 +14,8 @@ Summary: It provides more controls on the option values such as validation and f
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-globaloptions-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-globaloptions-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-globaloptions-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-globaloptions-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-globaloptions-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-globaloptions-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-globaloptions-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-globaloptions-feedstock)
 
 Current release info
 ====================
