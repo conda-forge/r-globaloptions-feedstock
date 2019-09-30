@@ -1,4 +1,4 @@
-{% set version = "0.1.0" %}
+{% set version = "0.1.1" %}
 
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
@@ -12,11 +12,11 @@ source:
   url:
     - https://cran.r-project.org/src/contrib/GlobalOptions_{{ version }}.tar.gz
     - https://cran.r-project.org/src/contrib/Archive/GlobalOptions/GlobalOptions_{{ version }}.tar.gz
-  sha256: 567a0a51f6b7b14127302f00e6e4944befd4964c069f96a9e61256e8c3c79ef2
+  sha256: 4249ef78424128050af83bbb8e71b4af82f8490c87f6a9d927782b80be830975
 
 build:
   noarch: generic
-  number: 2002
+  number: 0
 
   rpaths:
     - lib/R/lib/
