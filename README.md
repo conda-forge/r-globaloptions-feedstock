@@ -1,11 +1,11 @@
-About r-globaloptions
-=====================
+About r-globaloptions-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-globaloptions-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/jokergoo/GlobalOptions
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-globaloptions-feedstock/blob/main/LICENSE.txt)
 
 Summary: It provides more controls on the option values such as validation and filtering on the values, making options invisible or private.
 
